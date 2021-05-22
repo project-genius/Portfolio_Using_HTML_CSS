@@ -1,0 +1,105 @@
+body{
+    background:  #fff;
+}
+
+#maindiv
+{
+    background: #004E7C;
+    height: auto;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:2em;
+    padding:3em;
+    -webkit-box-shadow: 0 0 20px;
+}
+
+.mainheading
+{
+
+  
+     color: #fff;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 40px;
+     margin:0px;
+     text-align: left;
+ 
+}
+
+#profilephoto
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    -webkit-box-shadow: 0 0 20px;
+
+}
+
+
+  
+#sectionphoto
+{
+    border-radius: 50%;
+    height: 100px;
+    width:100px;
+}
+
+
+#infodiv
+{
+margin-top: 2.5em;
+display: inline-block;
+-webkit-box-shadow: 0 0 10px;
+
+}
+
+.infosection
+{
+    display:inline-block;
+    width:300px;
+    margin: 3em;
+    text-align: center;
+    float: left;
+    background-color:#006699;
+    padding: 10px;
+   -webkit-box-shadow: 0 0 10px;
+
+}
+
+
+
+.infoheading
+{
+    color:#fff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#mainheadingdiv
+{
+    position: absolute;
+    top:15%;
+    left:25%;
+}
+
+#socialmedia
+{
+    position: absolute;
+    top:10%;
+    right:8%;
+    color:white;
+}
+
+.about
+{
+    height: 150px;
+    background-color: #fff;
+    padding: 10px;
+    width:auto;
+    color:#004E7C;
+    text-align:left;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+}
